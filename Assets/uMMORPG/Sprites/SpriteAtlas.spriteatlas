@@ -40,11 +40,11 @@ SpriteAtlas:
       allowAlphaSplitting: 0
       enableRotation: 1
       enableTightPacking: 1
-      enableAlphaDilation: 0
     secondaryTextureSettings: {}
     variantMultiplier: 1
     packables:
     - {fileID: 102900000, guid: ed49c72ded6b445fcb71e54c937972f3, type: 3}
+    totalSpriteSurfaceArea: 953896
     bindAsDefault: 1
     isAtlasV2: 0
     cachedData: {fileID: 0}
@@ -759,6 +759,7 @@ SpriteAtlas:
   - {fileID: 21300220, guid: 8fe1a28a11d43499c9bfb7c7c1182f81, type: 3}
   - {fileID: 21300360, guid: 8fe1a28a11d43499c9bfb7c7c1182f81, type: 3}
   - {fileID: 21300152, guid: 8fe1a28a11d43499c9bfb7c7c1182f81, type: 3}
+  - {fileID: -2689026045669087484, guid: 8fe1a28a11d43499c9bfb7c7c1182f81, type: 3}
   - {fileID: 21300238, guid: 8fe1a28a11d43499c9bfb7c7c1182f81, type: 3}
   - {fileID: 21300196, guid: 8fe1a28a11d43499c9bfb7c7c1182f81, type: 3}
   - {fileID: 21300386, guid: 8fe1a28a11d43499c9bfb7c7c1182f81, type: 3}
@@ -1774,6 +1775,7 @@ SpriteAtlas:
   - castlewall_center
   - woodhouse_back_lefthalf_right
   - bridge_vertical_right
+  - Fence_1
   - reed_multi_small
   - castleplatform_left
   - woodhouse_chrimneyroof_righthalf_topright
