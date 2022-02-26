@@ -593,9 +593,6 @@ TextureImporter:
   - first:
       213: 21300392
     second: woodhouse_chimneyroof_center_top
-  - first:
-      213: -2689026045669087484
-    second: Fence_1
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -618,6 +615,7 @@ TextureImporter:
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -4371,7 +4369,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -4392,7 +4390,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -4413,7 +4411,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -4434,7 +4432,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -4455,7 +4453,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -4476,7 +4474,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -4497,7 +4495,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -4518,7 +4516,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -4539,7 +4537,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -4560,7 +4558,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -4581,7 +4579,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -4602,7 +4600,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -4623,7 +4621,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -4644,7 +4642,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -4665,7 +4663,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -4686,7 +4684,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -4707,7 +4705,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -4728,7 +4726,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -4749,7 +4747,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -4770,7 +4768,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -4791,7 +4789,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -4812,7 +4810,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -4824,37 +4822,213 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
-    - serializedVersion: 2
-      name: Fence_1
-      rect:
-        serializedVersion: 2
-        x: 479
-        y: 235
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 407ee1cfe09aeaad0800000000000000
-      internalID: -2689026045669087484
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     outline: []
     physicsShape: []
     bones: []
-    spriteID: a514e1934b70f9543a67429795fa32da
+    spriteID: 
     internalID: 0
     vertices: []
     indices: 
     edges: []
     weights: []
     secondaryTextures: []
+    nameFileIdTable:
+      water_waves_h: 21300080
+      bridge_vertical_topleft: 21300138
+      grass: 21300012
+      chain_top: 21300226
+      path_vs_water_top: 21300084
+      stone_in_water_a: 21300252
+      woodhouse_emptyroof_righthalf_bottomleft: 21300342
+      path_vs_grass_bottomleft: 21300036
+      waterfall_0: 21300168
+      castlewall_topleft: 21300212
+      water_vs_grass_topleft: 21300056
+      skull: 21300156
+      tree_bottomleft: 21300304
+      waterfall_bottom_1: 21300176
+      castlewall_left: 21300218
+      flowers_a: 21300160
+      stonewall_vs_water_right: 21300186
+      skull_rotated: 21300260
+      flowerpot_thin: 21300256
+      castle_darkentry_right: 21300286
+      woodhouse_front_righthalf_bottom: 21300322
+      bridge_vertical_bottomleft: 21300146
+      woodhouse_back_righthalf_bottomright: 21300380
+      woodhouse_back_lefthalf_right: 21300360
+      path_vs_grass_topright: 21300034
+      grass_vs_path_bottomleft: 21300022
+      castlewall_bottomright_shadow: 21300274
+      reed_multi_big: 21300240
+      castle_darkentry_bottomright: 21300288
+      woodhouse_back_righthalf_left: 21300374
+      Overworld_0: 21300248
+      woodhouse_front_center_center: 21300318
+      stonewall_vs_water_bottomright: 21300184
+      grass_vs_path_left: 21300020
+      woodhouse_back_center_top: 21300006
+      grass_vs_path_bottom: 21300024
+      waterfall_2: 21300172
+      woodhouse_front_lefthalf_topright: 21300308
+      sign: 21300110
+      flowers_d: 21300166
+      grass_vs_path_bottomright: 21300026
+      stonewall_left: 21300118
+      bridge_vertical_center: 21300154
+      castleplatform_bottom: 21300200
+      castle_darkentry_topleft: 21300282
+      woodhouse_front_righthalf_left: 21300326
+      water_waves_b: 21300068
+      waterfall_bottom_0: 21300174
+      woodhouse_emptyroof_lefthalf_bottomleft: 21300000
+      woodhouse_emptyroof_lefthalf_topleft: 21300336
+      woodhouse_emptyroof_lefthalf_top: 21300338
+      water_vs_grass_bottomleft: 21300060
+      castlewall_bottomleft: 21300264
+      castleplatform_topright: 21300208
+      chain_center: 21300228
+      woodhouse_front_righthalf_right: 21300328
+      water_waves_a: 21300066
+      stonewall_vs_water_bottomleft: 21300180
+      path: 21300030
+      sack: 21300254
+      castlewall_bottomright_shadow_bottomright: 21300280
+      woodhouse_emptyroof_lefthalf_bottom: 21300334
+      woodhouse_back_righthalf_topleft: 21300370
+      castlewall_right: 21300222
+      path_vs_grass_topleft: 21300032
+      castle_darkentry_topright: 21300284
+      woodhouse_chrimneyroof_righthalf_topright: 21300386
+      woodhouse_back_righthalf_right: 21300376
+      castlewall_center: 21300220
+      flowers_e: 21300164
+      grass_vs_water_bottomright: 21300052
+      castlewall_topright: 21300216
+      castleplatform_bottomleft: 21300194
+      woodhouse_front_center_top: 21300320
+      castlewall_bottom_shadow: 21300270
+      water: 21300064
+      castle_darkentry_bottom: 21300296
+      flowers_b: 21300158
+      castleplatform_left: 21300196
+      woodhouse_chimneyroof_lefthalf_bottomright: 21300354
+      water_vs_path_bottomleft: 21300102
+      woodhouse_chimneyroof_center_top: 21300392
+      stone_in_water_b: 21300250
+      bridge_vertical_bottom: 21300148
+      woodhouse_back_center_center: 21300366
+      woodhouse_emptyroof_righthalf_topright: 21300348
+      castleplatform_right: 21300210
+      grass_vs_water_top: 21300042
+      woodhouse_front_lefthalf_bottomright: 21300306
+      castleplatform_topleft: 21300198
+      woodhouse_front_lefthalf_topleft: 21300314
+      stonewall_vs_grass_bottom: 21300126
+      waterfall_bottom_2: 21300178
+      woodhouse_front_lefthalf_right: 21300008
+      stones_in_water_2: 21300244
+      castleplatform_top: 21300206
+      castle_darkentry_center: 21300292
+      woodhouse_front_lefthalf_center: 21300312
+      woodhouse_back_lefthalf_bottomleft: 21300364
+      bone: 21300262
+      water_waves_e: 21300074
+      grass_vs_water_topright: 21300044
+      stonewall_vs_grass_bottomright: 21300128
+      woodhouse_chrimneyroof_righthalf_bottomright: 21300384
+      bridge_vertical_topright: 21300142
+      castlewall_right_shadow: 21300276
+      castle_darkentry_bottomleft: 21300294
+      stonewall_vs_water_vs_grass_topright: 21300190
+      castlewall_bottom: 21300268
+      woodhouse_back_righthalf_bottomleft: 21300378
+      woodhouse_front_lefthalf_bottom: 21300310
+      grass_vs_water_right: 21300054
+      path_vs_water_bottomleft: 21300092
+      water_vs_path_bottomright: 21300104
+      castlewall_bottomright_shadow_right: 21300278
+      castle_darkentry_left: 21300290
+      woodhouse_back_lefthalf_topright: 21300356
+      stonewall: 21300120
+      castleplatform_bottomright: 21300202
+      woodhouse_front_center_bottom: 21300316
+      reed_multi_small: 21300238
+      castleplatform_center: 21300204
+      water_vs_path_topright: 21300100
+      stonewall_vs_grass_topleft: 21300136
+      grass_vs_water_bottom: 21300050
+      woodhouse_emptyroof_righthalf_topleft: 21300346
+      path_vs_water_topleft: 21300082
+      stones_in_water_2_small: 21300246
+      grass_vs_path_topright: 21300018
+      woodhouse_emptyroof_center_top: 21300002
+      woodhouse_chimneyroof_lefthalf_topleft: 21300004
+      woodhouse_back_lefthalf_left: 21300358
+      path_vs_water_right: 21300090
+      bridge_vertical_bottomright: 21300150
+      stonewall_vs_water_left: 21300188
+      path_vs_grass_bottomright: 21300038
+      stones_in_water_3: 21300242
+      chain_bottom: 21300230
+      woodhouse_chimneyroof_lefthalf_topright: 21300350
+      woodhouse_front_righthalf_topright: 21300332
+      reed_small: 21300234
+      grass_vs_path_top: 21300016
+      sign_grassy: 21300108
+      stonewall_vs_grass_bottomleft: 21300124
+      castlewall_bottomright: 21300272
+      flowers_c: 21300162
+      stonewall_vs_water_vs_grass_topleft: 21300192
+      woodhouse_front_righthalf_topleft: 21300330
+      grass_vs_path_right: 21300028
+      stonewall_vs_water_bottom: 21300182
+      castlewall_bottomleft_shadow: 21300266
+      grass_vs_path_topleft: 21300014
+      path_vs_water_left: 21300088
+      woodhouse_back_center_center_bottom: 21300368
+      woodhouse_chimneyroof_center_bottom: 21300390
+      stonewall_bottomleft: 21300112
+      stonewall_bottom: 21300114
+      water_waves_g: 21300078
+      woodhouse_chimneyroof_lefthalf_bottomleft: 21300352
+      dirt_with_flower: 21300232
+      tree_topright: 21300300
+      stonewall_right: 21300122
+      bridge_vertical_right: 21300152
+      grass_vs_water_topleft: 21300040
+      water_waves_d: 21300072
+      woodhouse_chrimneyroof_righthalf_bottomleft: 21300382
+      stonewall_bottomright: 21300116
+      reed_big: 21300236
+      tree_bottomright: 21300302
+      water_waves_c: 21300070
+      water_vs_grass_bottomright: 21300062
+      grass_vs_water_left: 21300046
+      woodhouse_emptyroof_righthalf_bottomright: 21300344
+      stonewall_vs_grass_right: 21300132
+      path_vs_water_bottom: 21300094
+      tree_topleft: 21300106
+      water_vs_grass_topright: 21300058
+      path_vs_water_bottomright: 21300096
+      waterfall_1: 21300170
+      woodhouse_back_lefthalf_topleft: 21300010
+      grass_vs_water_bottomleft: 21300048
+      stonewall_vs_grass_left: 21300130
+      woodhouse_back_lefthalf_bottomright: 21300362
+      water_waves_f: 21300076
+      castlewall_top: 21300214
+      bridge_vertical_top: 21300140
+      woodhouse_back_righthalf_topright: 21300372
+      castle_darkentry_top: 21300298
+      bridge_vertical_left: 21300144
+      woodhouse_chrimneyroof_righthalf_topleft: 21300388
+      woodhouse_emptyroof_center_bottom: 21300340
+      flowerpot_thick: 21300258
+      stonewall_vs_grass_topright: 21300134
+      woodhouse_front_righthalf_bottomright: 21300324
+      path_vs_water_topright: 21300086
+      water_vs_path_topleft: 21300098
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
