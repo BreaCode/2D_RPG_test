@@ -16,7 +16,7 @@ public class Coroutine : MonoBehaviour
         {
             foreach (Entity candidate in candidates)
             {
-                caster.combat.DealDamageAt(candidate, caster.combat.damage + damage, stunChance, stunTime);
+                caster.combat.DealDamageAt(candidate, (int)loopDamage, stunChance, stunTime);
             }
             damagedValue += loopDamage;
             yield return new WaitForSeconds(1f);
